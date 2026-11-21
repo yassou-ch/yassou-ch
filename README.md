@@ -26,7 +26,6 @@ off duty   crochet, vlog editing, youtube
 ### 🌸 right now
 - learning how to manipulate databases
 - learning c++
-- making my interfaces more interactive
 
 <br>
 
